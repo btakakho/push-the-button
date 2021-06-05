@@ -1,4 +1,4 @@
-# push_the_button
+# Dummy flutter app
 
 Test your reaction!
 
